@@ -1,5 +1,5 @@
 {
-  "name": "es6-snake-game",
+  "name": "the-arcade-snake-game",
   "version": "1.0.0",
   "description": "Snake game implemented using ES6 JavaScript",
   "private": true,
