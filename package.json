@@ -1,7 +1,7 @@
 {
   "name": "the-arcade-snake-game",
   "version": "1.0.0",
-  "description": "Snake game implemented using ES6 JavaScript",
+  "description": "Arcade snake game with ES6 and HTML5 Canvas element 2d animation.",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
